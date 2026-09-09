@@ -1409,3 +1409,4 @@ Instead of hiding the analytical process behind a chatbot, SatQuery connects nat
 **The AI explains the evidence.
 The analysis produces the evidence.
 The system never pretends to have evidence it doesn't have.**
+I am joining the project 
