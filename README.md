@@ -6,7 +6,7 @@
 
 Built for **Smart India Hackathon 2026 — Problem Statement SIH26167 (Space Technology)** in collaboration with **ISRO-SAC**.
 
-> **Core principle:** SatQuery AI behaves like a scientific analysis system with an AI interface — not like a chatbot pretending to understand satellite imagery.
+> **Core principle:** SatQuery AI behaves like a scientific analysis system with an AI interface — not like a chatbot pretending to understand satellite imagery..
 
 ---
 
